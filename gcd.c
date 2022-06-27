@@ -23,5 +23,3 @@ void main()
     ans=gcd(m,n);
     printf("GCD=%d",ans);
 }
-© 2022 GitHub, Inc.
-Terms
